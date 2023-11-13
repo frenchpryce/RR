@@ -1,0 +1,14 @@
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\bin\Debug\RR.exe.config
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\bin\Debug\RR.exe
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\bin\Debug\RR.pdb
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.csproj.AssemblyReference.cache
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.Form1.resources
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.Properties.Resources.resources
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.csproj.GenerateResource.cache
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.csproj.CoreCompileInputs.cache
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.exe
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.pdb
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\bin\Debug\Dapper.dll
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\bin\Debug\Dapper.xml
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.csproj.CopyComplete
+C:\Users\Ralph\OneDrive\Desktop\RR\RR\obj\Debug\RR.Form3.resources
